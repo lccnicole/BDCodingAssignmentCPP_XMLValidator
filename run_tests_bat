@@ -1,0 +1,6 @@
+checker.exe "<Design><Code>hello world</Code></Design>"
+checker.exe "<Design><Code>hello world</Code></Design><People>"
+checker.exe "<People><Design><Code>hello world</People></Code></Design>"
+checker.exe "<tutorial date=\"01 / 01 / 2000\">XML</tutorial>"
+checker.exe "<tutorial date=\"01 / 01 / 2000\">XML</tutorial date=\"01 / 01 / 2000\">"
+pause
